@@ -1,0 +1,9 @@
+{
+  "name": "Aura",
+  "description": "A digital sanctuary for meaningful connection. Aura replaces the noise of instant messaging with visual orbits, mood-based presence, and slow-mode communication.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
